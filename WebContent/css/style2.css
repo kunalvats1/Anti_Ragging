@@ -1,0 +1,70 @@
+.tag
+{
+    font-family:Roboto;
+    font-size: 22px;
+    color:white;
+}
+.a
+{
+    font-size:16px;
+    width:250px;
+    height: 23px;
+    border-radius: 23px;
+   
+}
+
+.button1
+{
+    background-color:#2B2B2B;
+    width: 15%;
+    height: 38px;
+    border-color: black;
+    border: 0px solid;
+    font-family: Lobarto;
+    font-size: 22px;
+    position: absolute;
+    margin-left: 3.5px;
+    color:white;
+}
+.button1:hover
+{
+    background-color:dodgerblue;
+    
+}
+.button2
+{
+    background-color:#2B2B2B;
+    width: 15%;
+    height: 38px;
+    border-color: black;
+    border: 0px solid;
+    font-family: Lobarto;
+    font-size: 22px;
+    margin: auto;
+    margin-left:50px;
+    position: absolute;
+    color:white;
+}
+.button2:hover
+{
+background-color:dodgerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

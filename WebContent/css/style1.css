@@ -1,0 +1,49 @@
+.header img 
+{   
+  width: 100px;
+    top: 35px;
+  height: 100px;
+  position: relative;
+}
+.size1{
+    height:30px;
+    font-size:18pt;
+    margin-left: 56px;
+    border-radius: 15px;
+    margin-top: 40px;
+    width: 60%;
+}
+.size2{
+    height:30px;
+    width: 60%;
+    font-size:14pt;
+    margin-left: 38px;
+    border-radius: 15px;   
+   
+}
+.avatar
+{
+   
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+    top:200px;
+    left:51%;
+}
+.login
+{
+    background-color:#2B2B2B;
+    width: 140;
+    height:32px;
+    font-size: 22px;
+    border:0px solid #333;
+    transition: all 0.5s ease;
+   margin-left:50%;
+    color: white;
+}
+.login:hover
+{
+    background-color:dodgerblue;
+    border-color: #d35400;
+    color: #fff;
+}

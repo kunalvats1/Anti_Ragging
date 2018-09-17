@@ -9,7 +9,7 @@ private String course;
 private String Action;
 private double rollno;
 
-public pojo() //why we use default constructor
+public pojo() 
 {
 
 }
